@@ -68,6 +68,44 @@ Below you can see the main examination domain classes:
 
 
 
+A Python-based implementation for solving the **Uncapacitated Examination Timetabling Problem (UETP)** using **Gurobi** as the optimization solver. This project is built on the **ITC2007 dataset**, and supports both **hard and soft constraints**, producing an optimized exam schedule.
+
+## 📁 Dataset
+
+Uses data from the **ITC2007 Exam Timetabling Competition**.
+
+Place your `.exam` file (e.g., `exam_comp_set1.exam`) in the project directory.
+
+---
+
+## 🧮 Mathematical Formulation
+
+
+Objective:
+Minimize total penalty from soft constraints
+
+Subject to:
+- Each exam is assigned exactly one period
+- No student has overlapping exams
+- Respect duration and spacing constraints
+
+<pre>
+.
+├── data/
+│   └── exam_comp_set1.exam
+├── images/
+│   ├── timetable.png
+│   └── penalty_graph.png
+├── main.py
+├── parser.py
+├── optimizer.py
+├── visualization.py
+└── README.md
+  
+</pre>
+
+
+
 
 
 
