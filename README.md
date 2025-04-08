@@ -50,14 +50,25 @@ The problem is defined by the International Timetabling Competition 2007 track 1
 
 
 **Problem size**
-<pre>'''exam_comp_set1 has  7883 students,  607 exams, 54 periods,  7 rooms,  12 period constraints and  0 room constraints with a search space of 10^1564.
+<pre>exam_comp_set1 has  7883 students,  607 exams, 54 periods,  7 rooms,  12 period constraints and  0 room constraints with a search space of 10^1564.
 exam_comp_set2 has 12484 students,  870 exams, 40 periods, 49 rooms,  12 period constraints and  2 room constraints with a search space of 10^2864.
 exam_comp_set3 has 16365 students,  934 exams, 36 periods, 48 rooms, 168 period constraints and 15 room constraints with a search space of 10^3023.
 exam_comp_set4 has  4421 students,  273 exams, 21 periods,  1 rooms,  40 period constraints and  0 room constraints with a search space of  10^360.
 exam_comp_set5 has  8719 students, 1018 exams, 42 periods,  3 rooms,  27 period constraints and  0 room constraints with a search space of 10^2138.
 exam_comp_set6 has  7909 students,  242 exams, 16 periods,  8 rooms,  22 period constraints and  0 room constraints with a search space of  10^509.
 exam_comp_set7 has 13795 students, 1096 exams, 80 periods, 15 rooms,  28 period constraints and  0 room constraints with a search space of 10^3374.
-exam_comp_set8 has  7718 students,  598 exams, 80 periods,  8 rooms,  20 period constraints and  1 room constraints with a search space of 10^1678.'''</pre>
+exam_comp_set8 has  7718 students,  598 exams, 80 periods,  8 rooms,  20 period constraints and  1 room constraints with a search space of 10^1678.</pre>
+
+
+**Domain model**
+
+Below you can see the main examination domain classes:
+
+![DomainDiagram](Image/examinationDomainDiagram (1).png)
+
+
+
+
 
 
 
