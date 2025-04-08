@@ -4,3 +4,4 @@
 
 Schedule each exam into a period and into a room. Multiple exams can share the same room during the same period.
 
+![Timetable Screenshot](images/timetable_example.png)
