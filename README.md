@@ -64,7 +64,7 @@ exam_comp_set8 has  7718 students,  598 exams, 80 periods,  8 rooms,  20 period 
 
 Below you can see the main examination domain classes:
 
-![DomainDiagram](Image/examinationDomainDiagram (1).png)
+![Timetable Screenshot](Image/examinationTimetablingUseCase.png)
 
 
 
