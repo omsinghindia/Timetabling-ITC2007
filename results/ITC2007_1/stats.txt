@@ -1,0 +1,12 @@
+Objective value: 553000
+Number of exams: 607
+Number of assigned exams: 607
+Assignment percentage: 100.00%
+Period penalties: 0
+Room penalties: 0
+Two in a row violations: 512
+Two in a day violations: 0
+Period spread violations: 0
+Mixed durations violations: 0
+Front load violations: 0
+Virtual assignments: 553

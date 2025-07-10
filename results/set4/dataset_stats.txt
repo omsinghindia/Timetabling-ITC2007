@@ -1,0 +1,18 @@
+num_exams: 273
+num_students: 4421
+num_periods: 21
+num_rooms: 1
+num_period_constraints: 20
+num_room_constraints: 0
+num_components: 1
+conflict_density: 0.14996767937944408
+exams_per_room: 273.0
+students_per_exam: 79.63369963369964
+student_capacity: 0.8626984126984127
+institutional_weightings: {
+  'TWOINAROW': [9],
+  'TWOINADAY': [5],
+  'PERIODSPREAD': [2],
+  'NONMIXEDDURATIONS': [10],
+  'FRONTLOAD': [50, 10, 5],
+}

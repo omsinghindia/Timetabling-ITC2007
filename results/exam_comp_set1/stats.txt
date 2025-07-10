@@ -1,0 +1,3 @@
+Status: Mock solution (not optimized)
+Objective value: N/A
+Runtime: 1.16 seconds

@@ -1,0 +1,23 @@
+Objective value: 310
+
+Exam assignments:
+Exam 0: Period 2, Room 1
+Exam 1: Period 2, Room 0
+Exam 2: Period 3, Room 2
+Exam 3: Period 3, Room 1
+Exam 4: Period 5, Room 2
+Exam 5: Period 3, Room 0
+Exam 6: Period 4, Room 2
+Exam 7: Period 0, Room 1
+Exam 8: Period 0, Room 0
+Exam 9: Period 4, Room 1
+Exam 10: Period 1, Room 1
+Exam 11: Period 4, Room 0
+Exam 12: Period 5, Room 1
+Exam 13: Period 5, Room 0
+Exam 14: Period 0, Room 2
+Exam 15: Period 6, Room 2
+Exam 16: Period 6, Room 1
+Exam 17: Period 2, Room 2
+Exam 18: Period 1, Room 2
+Exam 19: Period 1, Room 0
